@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Joel Pawar</h1>
 <h3 align="center">A passionate frontend developer and Student from India</h3>
 
-<img align="right"  width="400" alt="coding" src="![image](https://user-images.githubusercontent.com/100923058/235281088-0d5af2f9-dcf4-42d3-800a-2cf7c1fc7af5.png)
+<img align="right"  width="400" alt="coding" src="https://user-images.githubusercontent.com/100923058/235281117-d359e07b-0eca-41f4-8bda-f021e7c31281.png
 ">
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpawar08&label=Profile%20views&color=0e75b6&style=flat" alt="joelpawar08" /> </p>
 
 - 🔭 I’m currently working on **trying to build more intresting and independent projects**
