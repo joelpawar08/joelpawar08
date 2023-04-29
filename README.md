@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Joel Pawar</h1>
 <h3 align="center">A passionate frontend developer and Student from India</h3>
 
-<img align="right"  width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif%3Ftracking_source%3Dsearch_projects%257Canimated%2Bportrait&psig=AOvVaw2bt603sRvpBb-6-JQWBJvo&ust=1682824469149000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiixeiPzv4CFQAAAAAdAAAAABAY">
+<img align="right"  width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2bt603sRvpBb-6-JQWBJvo&ust=1682824469149000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiixeiPzv4CFQAAAAAdAAAAABAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelpawar08&label=Profile%20views&color=0e75b6&style=flat" alt="joelpawar08" /> </p>
 
