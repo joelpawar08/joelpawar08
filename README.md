@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joel Pawar
 
 **AI/ML Engineer @ Lovelocal**  
-🚀 **2× Smart India Hackathon Winner (2023 & 2024)** | **Mumbai Hacks 2024 Winner** (World's Largest AI Hackathon)
+🚀 **2× Smart India Hackathon Winner (2023 & 2024) and External Mentor for SIH 2026** | **Mumbai Hacks 2024 Winner** (World's Largest AI Hackathon)
 
 ---
 
@@ -11,7 +11,7 @@ Passionate **AI/ML Engineer** with deep expertise in **Machine Learning**, **Dee
 
 At Lovelocal, I architect and deliver production-grade, high-impact AI solutions that are performant, reliable, and built to scale. I thrive on solving complex real-world problems through clean, efficient systems — from computer vision and generative AI to custom LLMs and intelligent agents.
 
-- 🔭 **Currently working on** — Advanced AI/ML systems including deepfake detection, custom LLMs, AI agents, and intelligent disaster-response solutions.
+- 🔭 **Currently working on** — Advanced AI/ML systems including MoE's , Transformers , Recommendation Engine , RL Techniques and Machine and Neural Network
 - 👯 **Open to collaboration** — On cutting-edge ML/DL projects, real-time AI applications, and scalable system architecture.
 - 💬 **Ask me about** — Machine Learning, Deep Learning, LLM development, Computer Vision, AI system design, or scalable full-stack AI solutions.
 
